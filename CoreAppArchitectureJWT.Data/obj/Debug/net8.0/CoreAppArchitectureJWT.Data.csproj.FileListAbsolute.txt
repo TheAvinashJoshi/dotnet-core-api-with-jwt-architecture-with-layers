@@ -1,0 +1,16 @@
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\bin\Debug\net8.0\CoreAppArchitectureJWT.Data.deps.json
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\bin\Debug\net8.0\CoreAppArchitectureJWT.Data.dll
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\bin\Debug\net8.0\CoreAppArchitectureJWT.Data.pdb
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\bin\Debug\net8.0\CoreAppArchitectureJWT.Core.dll
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\bin\Debug\net8.0\CoreAppArchitectureJWT.Core.pdb
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\obj\Debug\net8.0\CoreAppArchitectureJWT.Data.csproj.AssemblyReference.cache
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\obj\Debug\net8.0\CoreAppArchitectureJWT.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\obj\Debug\net8.0\CoreAppArchitectureJWT.Data.AssemblyInfoInputs.cache
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\obj\Debug\net8.0\CoreAppArchitectureJWT.Data.AssemblyInfo.cs
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\obj\Debug\net8.0\CoreAppArchitectureJWT.Data.csproj.CoreCompileInputs.cache
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\obj\Debug\net8.0\CoreAppArchitectureJWT.Data.sourcelink.json
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\obj\Debug\net8.0\CoreAppA.F9A182A7.Up2Date
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\obj\Debug\net8.0\CoreAppArchitectureJWT.Data.dll
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\obj\Debug\net8.0\refint\CoreAppArchitectureJWT.Data.dll
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\obj\Debug\net8.0\CoreAppArchitectureJWT.Data.pdb
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Data\obj\Debug\net8.0\ref\CoreAppArchitectureJWT.Data.dll

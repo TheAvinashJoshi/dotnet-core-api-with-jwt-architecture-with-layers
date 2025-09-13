@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAppArchitectureJWT", "CoreAppArchitectureJWT.csproj", "{7F7CD6A2-976D-44C2-ACDD-12747F78E6B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAppArchitectureJWT.Auth", "..\CoreAppArchitectureJWT.Auth\CoreAppArchitectureJWT.Auth.csproj", "{30ADF306-0FC5-4B38-A8B8-BD26C55C9F2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAppArchitectureJWT.Core", "..\CoreAppArchitectureJWT.Core\CoreAppArchitectureJWT.Core.csproj", "{46FF98BA-39BB-44A5-B323-BEA3284B0630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAppArchitectureJWT.Data", "..\CoreAppArchitectureJWT.Data\CoreAppArchitectureJWT.Data.csproj", "{7FF59529-A22A-403D-B4D5-5E817F41F5C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAppArchitectureJWT.Services", "..\CoreAppArchitectureJWT.Services\CoreAppArchitectureJWT.Services.csproj", "{3651210A-4A16-4288-8F75-F2E577C9F66D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F7CD6A2-976D-44C2-ACDD-12747F78E6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7CD6A2-976D-44C2-ACDD-12747F78E6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7CD6A2-976D-44C2-ACDD-12747F78E6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7CD6A2-976D-44C2-ACDD-12747F78E6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30ADF306-0FC5-4B38-A8B8-BD26C55C9F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30ADF306-0FC5-4B38-A8B8-BD26C55C9F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30ADF306-0FC5-4B38-A8B8-BD26C55C9F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30ADF306-0FC5-4B38-A8B8-BD26C55C9F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46FF98BA-39BB-44A5-B323-BEA3284B0630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FF98BA-39BB-44A5-B323-BEA3284B0630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FF98BA-39BB-44A5-B323-BEA3284B0630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FF98BA-39BB-44A5-B323-BEA3284B0630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FF59529-A22A-403D-B4D5-5E817F41F5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF59529-A22A-403D-B4D5-5E817F41F5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF59529-A22A-403D-B4D5-5E817F41F5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF59529-A22A-403D-B4D5-5E817F41F5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3651210A-4A16-4288-8F75-F2E577C9F66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3651210A-4A16-4288-8F75-F2E577C9F66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3651210A-4A16-4288-8F75-F2E577C9F66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3651210A-4A16-4288-8F75-F2E577C9F66D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF8BEC1E-4F86-446E-817E-F431FAAAAD47}
+	EndGlobalSection
+EndGlobal

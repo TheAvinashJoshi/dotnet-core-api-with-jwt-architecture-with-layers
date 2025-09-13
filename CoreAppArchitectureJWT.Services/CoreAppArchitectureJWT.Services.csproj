@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreAppArchitectureJWT.Core\CoreAppArchitectureJWT.Core.csproj" />
+    <ProjectReference Include="..\CoreAppArchitectureJWT.Data\CoreAppArchitectureJWT.Data.csproj" />
+  </ItemGroup>
+
+</Project>

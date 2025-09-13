@@ -1,0 +1,16 @@
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\bin\Debug\net8.0\CoreAppArchitectureJWT.Auth.deps.json
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\bin\Debug\net8.0\CoreAppArchitectureJWT.Auth.dll
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\bin\Debug\net8.0\CoreAppArchitectureJWT.Auth.pdb
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\bin\Debug\net8.0\CoreAppArchitectureJWT.Core.dll
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\bin\Debug\net8.0\CoreAppArchitectureJWT.Core.pdb
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\obj\Debug\net8.0\CoreAppArchitectureJWT.Auth.csproj.AssemblyReference.cache
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\obj\Debug\net8.0\CoreAppArchitectureJWT.Auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\obj\Debug\net8.0\CoreAppArchitectureJWT.Auth.AssemblyInfoInputs.cache
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\obj\Debug\net8.0\CoreAppArchitectureJWT.Auth.AssemblyInfo.cs
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\obj\Debug\net8.0\CoreAppArchitectureJWT.Auth.csproj.CoreCompileInputs.cache
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\obj\Debug\net8.0\CoreAppArchitectureJWT.Auth.sourcelink.json
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\obj\Debug\net8.0\CoreAppA.F0DB8C16.Up2Date
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\obj\Debug\net8.0\CoreAppArchitectureJWT.Auth.dll
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\obj\Debug\net8.0\refint\CoreAppArchitectureJWT.Auth.dll
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\obj\Debug\net8.0\CoreAppArchitectureJWT.Auth.pdb
+D:\Avinash Joshi\My Projects\dotnet-core-api-with-jwt-architecture-with-layers\CoreAppArchitectureJWT.Auth\obj\Debug\net8.0\ref\CoreAppArchitectureJWT.Auth.dll

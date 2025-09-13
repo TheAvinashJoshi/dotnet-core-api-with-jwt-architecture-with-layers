@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CoreAppArchitectureJWT.Services/1.0.0": {
+        "dependencies": {
+          "CoreAppArchitectureJWT.Core": "1.0.0",
+          "CoreAppArchitectureJWT.Data": "1.0.0"
+        },
+        "runtime": {
+          "CoreAppArchitectureJWT.Services.dll": {}
+        }
+      },
+      "CoreAppArchitectureJWT.Core/1.0.0": {
+        "runtime": {
+          "CoreAppArchitectureJWT.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CoreAppArchitectureJWT.Data/1.0.0": {
+        "dependencies": {
+          "CoreAppArchitectureJWT.Core": "1.0.0"
+        },
+        "runtime": {
+          "CoreAppArchitectureJWT.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreAppArchitectureJWT.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreAppArchitectureJWT.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreAppArchitectureJWT.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
